@@ -1,0 +1,11 @@
+﻿transaction_id;customer_id;product;category;amount;payment_type;transaction_date
+1;101;Laptop;Electronics;1200;Credit Card;01/09/2025
+2;102;Mouse;Electronics;25;Debit Card;02/09/2025
+3;101;Book;Education;15;E-Wallet;02/09/2025
+4;103;Phone;Electronics;800;Credit Card;03/09/2025
+5;104;Shoes;Fashion;60;Cash;03/09/2025
+6;102;Shirt;Fashion;35;Debit Card;04/09/2025
+7;101;Tablet;Electronics;300;E-Wallet;05/09/2025
+8;105;Bag;Fashion;45;Credit Card;06/09/2025
+9;103;Book;Education;20;Cash;06/09/2025
+10;101;Laptop;Electronics;1100;Credit Card;07/09/2025
